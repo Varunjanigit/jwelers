@@ -1,0 +1,116 @@
+{
+  "VRAJTEX": "VRAJ TEX",
+  "About": "Your trusted Textile Wholesaler, offering quality clothing and apparel in bulk lots.",
+  "welcome_message": "Welcome to VRAJ TEX — your premier wholesale clothing partner. We specialize in premium quality apparel for women, men, and kids. From traditional ethnic wear to modern fashion, we offer comprehensive wholesale solutions for retailers and distributors across India.",
+  "SaveContact": "Save Contact",
+  "E-mail": "E-mail",
+  "Mobile Number": "Mobile Number",
+  "VRAJ_TEX": "Premium textile wholesale, blending quality and value.",
+  "address": "209 D R INDIA TEXTILE HUB, PARVAT PATIYA SURAT-395010.",
+  "Location": "Location",
+  "VisitLocation": "Visit Location",
+  "GST_Number": "GST Number",
+  "Wholesale_Only": "ONLY WHOLESALE",
+  "Single_Piece_Not_Available": "Single piece not available",
+  "Surat_Stock": "Surat lot fayde wala stock",
+  "AboutShort": "VRAJ TEX is a leading textile wholesaler in Surat, offering a wide range of quality clothing and apparel in bulk lots for retailers and resellers across India. Trusted for value, variety, and service.",
+  "OnlyKurtis_Description": "Discover an exclusive wholesale collection of kurtis in a wide range of styles, fabrics, and vibrant colors—perfect for retailers and resellers seeking premium quality, trendy designs, and unbeatable value, all under one roof at VRAJ TEX.",
+  "BRAND_TAGLINE": "Exclusive Kurtis Collection",
+
+  "categories": {
+    "heading": "Our Clothing Categories",
+    "womens_wear": {
+      "title": "Women's Collection",
+      "description": "Comprehensive range of women's clothing including kurtis, sarees, gowns, skirts, plazzo pants, dresses, and ethnic wear."
+    },
+    "mens_wear": {
+      "title": "Men's Collection", 
+      "description": "Complete men's apparel including shirts, pants, t-shirts, formal wear, casual wear, and traditional ethnic clothing."
+    },
+    "kids_wear": {
+      "title": "Kids Collection",
+      "description": "Adorable kids clothing for all ages including dresses, shirts, pants, ethnic wear, and comfortable daily wear."
+    },
+    "ethnic_wear": {
+      "title": "Ethnic Collection",
+      "description": "Traditional and modern ethnic wear including sarees, lehengas, salwar suits, and traditional dresses."
+    },
+    "western_wear": {
+      "title": "Western Collection",
+      "description": "Modern western wear including dresses, tops, jeans, skirts, and contemporary fashion items."
+    },
+    "accessories": {
+      "title": "Accessories",
+      "description": "Complete range of fashion accessories including dupattas, stoles, scarves, and other fashion items."
+    }
+  },
+
+  "services": {
+    "heading": "Our Wholesale Services",
+    "service1": {
+      "title": "Bulk Clothing Supply",
+      "description": "Comprehensive wholesale clothing for women, men, and kids. From ethnic to western wear, we supply all categories."
+    },
+    "service2": {
+      "title": "Quality Assurance",
+      "description": "Premium quality fabrics and craftsmanship. Every product meets our strict quality standards for customer satisfaction."
+    },
+    "service3": {
+      "title": "Competitive Pricing",
+      "description": "Best wholesale prices in Surat. Competitive rates for bulk orders with excellent profit margins for retailers."
+    },
+    "service4": {
+      "title": "Wide Range",
+      "description": "Extensive collection covering all clothing categories. From traditional ethnic wear to modern western fashion."
+    },
+    "service5": {
+      "title": "Reliable Supply",
+      "description": "Consistent stock availability and timely delivery. Dependable supply chain for your business needs."
+    },
+    "service6": {
+      "title": "Wholesale Only",
+      "description": "Exclusive wholesale business model. Bulk orders only for serious retailers and distributors."
+    }
+  },
+
+  "gallery": {
+    "heading": "Our Product Collection",
+    "view_more": "View More Images",
+    "textile_collection": "Textile Collection",
+    "BacktoHome": "Back to Home"
+  },
+
+  "contactus": {
+    "heading": "Contact Us",
+    "form": {
+      "nameLabel": "Your Name",
+      "namePlaceholder": "Enter your name",
+      "phoneLabel": "Phone Number",
+      "phonePlaceholder": "Enter your phone number",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Your message",
+      "buttonText": "Send"
+    }
+  },
+
+  "footer": {
+    "copyright": "All rights reserved.",
+    "DesignedBy": "Designed & Developed by",
+    "VRAJTEX": "VRAJ TEX",
+    "LiontouchWebpark": "Liontouch Webpark",
+    "phone1": "+91 97238 72406",
+    "phone2": "+91 91737 38300",
+    "email": "vijaympatel783@gmail.com"
+  },
+
+  "paymentinfo": {
+    "heading": "Payment Information",
+    "bank_details": "Bank Details",
+    "account_name": "Account Name",
+    "bank": "Bank",
+    "ac_no": "A/c No",
+    "ifsc": "IFSC",
+    "upi_id": "UPI ID",
+    "scan_to_pay": "Scan to pay with any UPI app"
+  }
+}

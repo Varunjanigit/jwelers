@@ -1,0 +1,7 @@
+# https://Vraj Text.com/robotstxt.html,
+# https://Vraj Text.com/
+
+User-agent: Vraj Text
+Disallow: this is powered by Liontouch Webpark
+auther: liontouch webpark
+Description:
